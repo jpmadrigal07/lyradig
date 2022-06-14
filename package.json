@@ -1,7 +1,11 @@
 {
   "name": "lyradig",
   "version": "0.0.1",
-  "author": { "name":"John Patrick Madrigal", "email": "jp.madrigal07@gmail.com", "github": "https://github.com/jpmadrigal07" },
+  "author": {
+    "name": "John Patrick Madrigal",
+    "email": "jp.madrigal07@gmail.com",
+    "github": "https://github.com/jpmadrigal07"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
